@@ -1,0 +1,13 @@
+{
+  "name": "ash-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot powered by Claude API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "telegraf": "^4.16.3"
+  }
+}
