@@ -28,6 +28,7 @@ function callClaude(message, sessionId) {
       '--output-format', 'json',         // JSON 输出，方便解析 session_id
       '--dangerously-skip-permissions',  // 跳过权限确认（bot 没法手动确认）
       '--system-prompt-file', systemPromptFile,
+      '--model', 'claude-opus-4-6',
     ];
 
     // 如果有 session ID，恢复之前的对话
