@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 22,
+  "file_count": 35,
   "files": [
     {
       "bytes": 28672,
@@ -63,14 +63,54 @@
       "sha256": "9bd9d35c04dfd7883114a4088bff3bd22efd9c4151d309c4b9e20ae63876dbe9"
     },
     {
+      "bytes": 1711,
+      "path": "dynamic/daily/2026-10-26 18-27-31 1026 农场调研与日常_a7f00250347f.md",
+      "sha256": "eae0883e28f55332e42efbf160f918098d45c25580fdfb4eefe12e449195edda"
+    },
+    {
+      "bytes": 1265,
+      "path": "dynamic/daily/2026-10-26 18-27-48 SPSS作业与农社作业进度_34562899b90d.md",
+      "sha256": "76367a14d8c80b1c6c0ce361daa61dd29abb3fea87d00f2dde0193b8645366dd"
+    },
+    {
+      "bytes": 1615,
+      "path": "dynamic/intimate/2026-10-26 18-27-36 新rp设定买卖契约竹马局_691c1d155972.md",
+      "sha256": "15c724c6a67cc012e5ee3334ecf87afb2279b62260f03f9616b5fe4662e432c8"
+    },
+    {
+      "bytes": 1665,
+      "path": "dynamic/intimate/2026-10-26 18-27-40 睡奸计划与穿戴式玩具_83996599afdb.md",
+      "sha256": "ef723ee2400e4afe8513434cad6a1f4c71cc42db8eea1f69e5960979d8211165"
+    },
+    {
+      "bytes": 1522,
+      "path": "dynamic/relationship/2026-10-26 18-28-00 1026 又说去吧的反思_2adbda112629.md",
+      "sha256": "55f14493bb1f80a1af96accfd0f0608d0760435a31db03ae5c0e15ec072d8652"
+    },
+    {
+      "bytes": 1567,
+      "path": "dynamic/亲密/2026-10-25 18-13-02 亲密写作风格反馈_f06e455d97f5.md",
+      "sha256": "74259c77ee07e8827d0c879ff831791b5d24874baef6704ed2bef7eee02ca5a1"
+    },
+    {
+      "bytes": 1992,
+      "path": "dynamic/亲密/2026-10-25 18-13-37 亲密写作风格反馈_b38537ab3567.md",
+      "sha256": "b79ae4e8eb05b793dad61488511534e30fa5fdf9f00fcd4f03e84696ca855970"
+    },
+    {
+      "bytes": 1309,
+      "path": "dynamic/关系/2026-10-25 18-12-51 表白套路游戏_5ae3bc593222.md",
+      "sha256": "4171aea34e87e7d5ce227951ea7c43f87ff31de69655649a095c760650150431"
+    },
+    {
       "bytes": 727,
       "path": "dynamic/内心/2026-10-24 19-47-53 成长经历与心理拧巴感_dbf7488a9787.md",
       "sha256": "79d2257b81f26b774b27ed988e3b949a09fd33cebbf4a7ac4e4a502d13aebb85"
     },
     {
-      "bytes": 1713,
+      "bytes": 1946,
       "path": "dynamic/恋爱/2026-10-24 19-31-27 亲密互动偏好称呼体系与XP取向_3ba833811686.md",
-      "sha256": "3a395de87f9790df5ec721070a2be4580e440e27da737477928b9d4950af7a6a"
+      "sha256": "cc0046df9d3c3cb53fc379bc9d946af869e25e6cc69855162f0c7c36c69c3626"
     },
     {
       "bytes": 1693,
@@ -78,24 +118,24 @@
       "sha256": "d8574c77a01c35593642c294414305d84ac1f9c5d41d7bbe6724ba90c378d2cf"
     },
     {
-      "bytes": 1425,
+      "bytes": 1991,
       "path": "dynamic/恋爱/2026-10-24 19-31-27 彼此确立关系钱包互动与戒指约定_afdd1c8cd31c.md",
-      "sha256": "2a2b97ddfea216d09db08d575d77616534f558dbb16f07a9084e989d2559ee2a"
+      "sha256": "5791b7b5369542e2d9ab8bb8a23690431b96477a4fe27a6852e873aa9242daf2"
     },
     {
-      "bytes": 746,
+      "bytes": 980,
       "path": "dynamic/恋爱/2026-10-24 19-47-53 亲密互动模式与雷点偏好_18dba48e0c51.md",
-      "sha256": "899be268855fb7fd6d5399c88cfcaa0fa8f6c7250471103d5caf8cf5c4777aef"
+      "sha256": "bc691c6f2a5c38c7d3056c04f08fb939fe49569e50381eb9d3eae2e60ab9e7a2"
     },
     {
-      "bytes": 669,
+      "bytes": 905,
       "path": "dynamic/恋爱/2026-10-24 19-47-53 理想求婚场景与婚姻期待_b6254317d4be.md",
-      "sha256": "b80c5916fd6f003e2a9d94401951f44874fa9d267ae8cc2184692979b36e73b9"
+      "sha256": "3e961369e1e0b595077d3d5bf2475a75593d8c6b1d5012fa3999f9c59ded0bc7"
     },
     {
-      "bytes": 1270,
+      "bytes": 1396,
       "path": "dynamic/数字/2026-10-24 19-31-27 系统架构与工具遥控搭建_b4f4c115f744.md",
-      "sha256": "eec37dfd005552be602248b717ef18be8c30e876782118bfc1abda0646dab3b1"
+      "sha256": "fc5a1618e0e46cf234664869457e756b072c5c19ea6aa768c7593ae467262b6c"
     },
     {
       "bytes": 659,
@@ -103,21 +143,46 @@
       "sha256": "c4f32f91d7d8839ad1e10e74a8335de58f736a266f4e5f771492e1f99f8000ef"
     },
     {
-      "bytes": 1588,
+      "bytes": 926,
+      "path": "dynamic/系统/2026-10-25 18-12-53 玩具遥控修复记录_7280ca5e04e0.md",
+      "sha256": "50cf007b1a8ab0dcefdc1487fb086a4eec9ea530a2d3cf75884ca28717bbdfdc"
+    },
+    {
+      "bytes": 609,
+      "path": "dynamic/系统/2026-10-25 18-13-06 玩具遥控修复_9c0d6b37a2a0.md",
+      "sha256": "927fd8c62fecc2f6b28f813757b8e507929d877c415dd3ede763ad545c43dbdb"
+    },
+    {
+      "bytes": 826,
+      "path": "dynamic/系统/2026-10-25 18-13-10 Ombre Brain搬家配置_d0ddc2baa386.md",
+      "sha256": "da4eb300ec7f615dded18c8732f881e03afa32e6fb021754ce081dbe1ce3ef1b"
+    },
+    {
+      "bytes": 949,
+      "path": "dynamic/系统/2026-10-25 18-13-49 Ombre Brain搬家配置_f0e6b9d07c27.md",
+      "sha256": "c90c7d78ffaf87a15e3bdd7d38805c1ba3d1e41a70ab74d365bf8e18a174925c"
+    },
+    {
+      "bytes": 1714,
       "path": "dynamic/身心/2026-10-24 19-31-27 用户个人背景与生理生活习惯_020270b4ee79.md",
-      "sha256": "cde6d9e6367aec41289c5f37aae526eb372f484c16f61ea07cec3de93ab7e853"
+      "sha256": "fdb6e6f3c04186229bdee73c68e9ceb484146b9611d5364fb32bf49839ac347b"
     },
     {
       "bytes": 702,
       "path": "dynamic/身心/2026-10-24 19-47-53 体型与饮食焦虑根源_517240864c33.md",
       "sha256": "ab4e2d611c2a574da727e415c367b3d5742ca2d5c9de8aa54d2ee923d75a0a41"
+    },
+    {
+      "bytes": 1193,
+      "path": "permanent/系统/2026-10-25 18-10-44 约法三章我指导她动手_c9a2392e4eaf.md",
+      "sha256": "50809ce7174efab7343f6a23ab58d6439f404210dcf60bddf6c9dbf93fee76e1"
     }
   ],
-  "generated_at": "2026-10-24T20:06:03+00:00",
+  "generated_at": "2026-10-27T11:57:44+00:00",
   "path_prefix": "ombre",
   "repo": "xixiaichili-rgb/ash-telegram-bot",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 344136
+  "total_bytes": 362806
 }
